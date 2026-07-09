@@ -187,15 +187,6 @@ All 5 tools are defined in `backend/tools.py` and use Groq LLM for intelligent p
 
 ---
 
-## 🎥 Video Demo
-
-A 10-15 minute walkthrough is available demonstrating:
-- Frontend functionality (Form + Chat interfaces)
-- All 5 LangGraph tools in action
-- Code structure explanation
-- Project overview
-
----
 
 ## 📊 API Endpoints
 
@@ -226,24 +217,9 @@ A 10-15 minute walkthrough is available demonstrating:
 
 ---
 
-## 📝 Assignment Requirements Met
-
-✅ **Frontend**: React with Redux state management  
-✅ **Backend**: Python with FastAPI  
-✅ **AI Agent Framework**: LangGraph  
-✅ **LLM**: Groq (gemma2-9b-it, llama-3.3-70b-versatile)  
-✅ **Database**: SQLite/PostgreSQL  
-✅ **Font**: Google Inter  
-✅ **5 LangGraph Tools**: All implemented with LLM integration  
-✅ **Log Interaction Screen**: Form + Chat interfaces  
-✅ **GitHub Repository**: Complete with documentation  
-
----
-
 ## 👨‍💻 Developer
 
-Built as part of the AI-First CRM HCP Module assignment.
-
+Aptha H P
 ---
 
 ## 📄 License
